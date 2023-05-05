@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Single.js Page")})();

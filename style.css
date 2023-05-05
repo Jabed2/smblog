@@ -1,0 +1,29 @@
+/*
+Theme Name : SmBlog-SoftTech
+Theme URI : htts:smblog.com
+Author : Soft Tech BD
+Author URI : https:sfottechbd.org
+Description : This is a Wordpress Theme 
+Tags : Blog, Theme
+Version : 1.0.0
+Requires At Least : 5.0
+Tested on : 6.2
+Requires PHP : 7.4
+Lisense : GNU General Public Lisense v2 or later
+Lisense URI : http:gnu.org/lisense/v2/.html
+Text Domain : smblog
+This is like Wordpress theme Developedment
+
+
+*/
+body {
+  font-family: 'Lato', sans-serif !important;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+.update {
+  display : none;
+}
